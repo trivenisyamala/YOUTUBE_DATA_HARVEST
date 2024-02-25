@@ -1,0 +1,5 @@
+pymongo
+google-api-python-client
+mysql-connector-python
+streamlit
+pandas
